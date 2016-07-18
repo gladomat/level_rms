@@ -1,5 +1,5 @@
 # level_rms
-A python script that adjusts RMS values auf WAV files.
+A python script that adjusts RMS values of WAV files.
 
 This function is based (pretty much 1-1) on the matlab script written by Daniel McCloy (drmccloy@uw.edu) which he LICENSED UNDER A CREATIVE COMMONS ATTRIBUTION 3.0 LICENSE: http://creativecommons.org/licenses/by/3.0/
 
